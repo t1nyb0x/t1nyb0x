@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 </p>
 
 [![trophy](https://stable-github-profile-trophy.vercel.app/?username=t1nyb0x&theme=chalk&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<a href="https://nowplaying.ikasoba.net/playing/t1nyb0x/url">
+  <img src="https://nowplaying.ikasoba.net/playing/t1nyb0x" />
+</a>
