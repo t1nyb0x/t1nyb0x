@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 [![trophy](https://stable-github-profile-trophy.vercel.app/?username=t1nyb0x&theme=chalk&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<a href="https://nowplaying.ikasoba.net/playing/t1nyb0x/url">
-  <img src="https://nowplaying.ikasoba.net/playing/t1nyb0x" />
+<a href="https://nowplaying.t1nyb0x.cloud/playing/t1nyb0x/url">
+  <img src="https://nowplaying.t1nyb0x.cloud/playing/t1nyb0x?scale=3" />
 </a>
