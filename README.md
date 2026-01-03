@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Language](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=t1nyb0x)](https://github.com/pranesh-2005/github-readme-stats-fast)
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=t1nyb0x)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![detail card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t1nyb0x&theme=monokai)
+![detail card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t1nyb0x&theme=monokai)
 
 <a href="https://nowplaying.t1nyb0x.cloud/playing/t1nyb0x/url">
   <img src="https://nowplaying.t1nyb0x.cloud/playing/t1nyb0x?scale=3" />
