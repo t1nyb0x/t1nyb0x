@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=t1nyb0x)
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t1nyb0x&layout=compact&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=t1nyb0x&theme=tokyonight&show_icons=ture" />
-</p>
-
-[![trophy](https://stable-github-profile-trophy.vercel.app/?username=t1nyb0x&theme=chalk&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Top Language](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=t1nyb0x)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=t1nyb0x)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <a href="https://nowplaying.t1nyb0x.cloud/playing/t1nyb0x/url">
   <img src="https://nowplaying.t1nyb0x.cloud/playing/t1nyb0x?scale=3" />
