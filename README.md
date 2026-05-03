@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=t1nyb0x)](https://github.com/pranesh-2005/github-readme-stats-fast)
 ![detail card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=t1nyb0x&theme=monokai)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=%E5%8D%97%E6%A2%9D%E9%B9%BF&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=true&bar_color=53b14f&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=%E5%8D%97%E6%A2%9D%E9%B9%BF&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=%E5%8D%97%E6%A2%9D%E9%B9%BF&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=true&bar_color=53b14f&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=%E5%8D%97%E6%A2%9D%E9%B9%BF&redirect=true)
